@@ -1,0 +1,31 @@
+.city {
+  background-color: rgb(143, 218, 218);
+  margin: 1px 9px 1px 9px;
+  border-radius: 5px;
+}
+
+.city select {
+  margin: 5px;
+  padding: 5px;
+  width: 20%;
+}
+
+.weather {
+  padding: 10px 5px 10px 5px;
+  list-style-type: none;
+  display: inline;
+
+}
+
+.weather li {
+  background-color: rgb(151, 248, 248);
+  border-radius: 5px;
+  margin: 3px;
+  text-align: center;
+  display: inline-block;
+}
+
+.checkedList {
+  border: none;
+  outline: 2px solid rgb(24, 21, 23);
+}
